@@ -29,6 +29,8 @@ creator:
     - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
     - http://www.museum.ru/Pushkin/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24863#Kapteenin-tyt-r
 gutenberg_issued: '2008-03-17'
 gutenberg_type: Text
 identifiers:
