@@ -1,0 +1,46 @@
+_repo: Kapteenin-tyt-r_24863
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Suomalainen, Samuli
+    aliases:
+    - S., Samuli
+    - Samuli S.
+    birthdate: 1850
+    deathdate: 1907
+    gutenberg_agent_id: '7732'
+    url: http://www.gutenberg.org/2009/agents/7732
+    wikipedia: http://fi.wikipedia.org/wiki/Carl_Gustaf_Samuel_Suomalainen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pushkin, Aleksandr Sergeevich
+    aliases:
+    - Pushkin, A. S. (Aleksandr Sergeevich)
+    - Пушкин, Александр Сергеевич
+    - Poushkin, Alexander
+    birthdate: 1799
+    deathdate: 1837
+    gutenberg_agent_id: '1457'
+    url: http://www.gutenberg.org/2009/agents/1457
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
+    - http://www.museum.ru/Pushkin/
+description: ''
+gutenberg_issued: '2008-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24863'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Russia -- History -- Catherine II, 1762-1796 -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Pugachev, Emelian Ivanovich, -1775 -- Fiction'
+title: Kapteenin tytär
+url: http://www.gutenberg.org/ebooks/24863
